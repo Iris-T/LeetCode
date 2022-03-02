@@ -1,10 +1,12 @@
+package y2022.Feb;
+
 import java.util.LinkedList;
 import java.util.Stack;
 
 /**
  * @author Iris 2022/2/27
  */
-public class Interview2022Feb27 {
+public class Feb27 {
 
     public static void main(String[] args) {
 

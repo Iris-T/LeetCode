@@ -1,10 +1,12 @@
+package y2022.Feb;
+
 import java.util.HashSet;
 import java.util.Set;
 
 /**
  * @author Iris 2022/2/26
  */
-public class Interview2022Feb26 {
+public class Feb26 {
 
     /**
      * @param s1 字符串1

@@ -1,10 +1,12 @@
+package y2022.Mar;
+
 import java.util.ArrayList;
 import java.util.List;
 
 /**
  * @author Iris 2022/3/1
  */
-public class Interview2022Mar01 {
+public class Mar01 {
 
     /**
      * @see 面试题05.07.配对交换[尽量使用较少指令]

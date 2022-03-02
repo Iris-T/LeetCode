@@ -1,9 +1,11 @@
+package Feb;
+
 import java.util.*;
 
 /**
  * @author Iris 2022/2/25
  */
-public class Interview2022Feb25 {
+public class Feb25 {
 
     /**
      * @see 面试题01.01.判断字符是否唯一[不适用额外数据结构会很加分]

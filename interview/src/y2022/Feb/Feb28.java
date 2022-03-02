@@ -1,7 +1,9 @@
+package y2022.Feb;
+
 /**
  * @author Iris 2022/2/28
  */
-public class Interview2022Feb28 {
+public class Feb28 {
 
     /**
      * @see 面试题04.02.最小高度树
