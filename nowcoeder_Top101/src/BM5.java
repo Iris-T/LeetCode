@@ -23,6 +23,11 @@ public class BM5 {
         }
     }
 
+    /**
+     * @see 合并k个排序链表
+     * @param lists
+     * @return
+     */
     public static ListNode mergeKLists(ArrayList<ListNode> lists) {
         if (lists == null || lists.size() == 0) return null;
         return mergeList(lists, 0, lists.size()-1);

@@ -6,6 +6,12 @@ public class BM4 {
 
     }
 
+    /**
+     * @see 合并两个排序的链表
+     * @param list1
+     * @param list2
+     * @return
+     */
     public ListNode Merge(ListNode list1,ListNode list2) {
         if (list1 == null || list2 == null) return (list1 == null) ? list2 : list1;
         ListNode temp, inx1 = list1, inx2 = list2;

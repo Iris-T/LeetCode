@@ -15,6 +15,11 @@ public class BM6 {
         System.out.println(hasCycle(a));
     }
 
+    /**
+     * @see 判断链表是否有环
+     * @param head
+     * @return
+     */
     public static boolean hasCycle(ListNode head) {
         if (head == null) return false;
         ListNode slow = head, fast = head;
