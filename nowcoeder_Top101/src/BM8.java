@@ -19,6 +19,12 @@ public class BM8 {
         System.out.println((res == null) ? res : res.toString());
     }
 
+    /**
+     * @see 返回倒数第n个节点开始的链表
+     * @param pHead
+     * @param k
+     * @return
+     */
     public static ListNode FindKthToTail (ListNode pHead, int k) {
         if (pHead == null || k == 0) return null;
         ListNode fast = pHead;
