@@ -1,3 +1,5 @@
+package list_prom;
+
 /**
  * @author Iris 2022/3/13
  */
@@ -10,7 +12,7 @@ public class ListNode {
 
     @Override
     public String toString() {
-        return "ListNode{" +
+        return "{" +
                 "val=" + val +
                 ", next=" + next +
                 '}';

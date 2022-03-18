@@ -1,3 +1,5 @@
+package list_prom;
+
 /**
  * @author Iris 2022/3/17
  */
@@ -15,7 +17,7 @@ public class BM9 {
 //        c.next = d;
 //        d.next = e;
 //        e.next = f;
-//        ListNode res = removeNthFromEnd(a, 2);
+//        list_prom.ListNode res = removeNthFromEnd(a, 2);
         ListNode res = removeNthFromEnd(a, 1);
         System.out.println((res == null) ? null : res.toString());
     }
